@@ -33,7 +33,7 @@ library(lib,character.only = TRUE)
 gPars = list(
   cols     = rev(inlmisc::GetColors(8))[1:7],
   cols_tr  = rev(inlmisc::GetColors(8, alpha = 0.2))[1:7],
-  cols_tr2 = rev(inlmisc::GetColors(8, alpha = 0.5))[1:7],
+  cols_tr2 = rev(inlmisc::GetColors(8, alpha = 0.75))[1:7],
   pty      = 's',
   mar      = c(3,3,1.6,.2),
   mgp      = c(2,.75,0),
