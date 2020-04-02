@@ -5,4 +5,5 @@
 
 Codes and data to reproduce the results of the paper:
 
-* _Impact of non-normal error distributions on the benchmarking and ranking of Quantum Machine Learning models_, by P. Pernot, A. Savin and B. Huang. WIP...
+* _Impact of non-normal error distributions on the benchmarking and ranking of Quantum Machine Learning models_, by P. Pernot, B. Huang and A. Savin. 
+Submitted to MLSP.
